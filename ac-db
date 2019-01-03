@@ -1,0 +1,46 @@
+#
+#	List of Audio Codecs
+#
+#	Version: 	2019.01.03
+#	Date:    	2019-01-03 18:37:30
+#	Maintainer: Muntashir Al-Islam <muntashir.islam96@gmail.com>
+#	License: 	3-clause BSD License.
+#
+#
+# Vendors, codecs and revisions. Please keep sorted.
+#
+# Syntax: (square brackets denote optional field)
+# vendor  vendor_name
+#	codec  codec_name			<-- single tab
+#		revision  [codec_name]	<-- two tabs
+
+1002  ATI
+1013  Cirrus Logic
+	4206  CS4206
+	4207  CS4207
+	4210  CS4210
+		100101
+	4213  CS4213
+		100100
+1057  Motorola
+1095  Silicon Image
+10de  NVIDIA
+10ec  Realtek
+1102  Creative
+	000a  CA0110-IBG
+	000b  CA0110-IBG
+	000d  SB0880 X-Fi
+	0011  CA0132
+1106  VIA
+111d  IDT
+11c1  LSI
+11d4  Analog Devices
+# Also 434d
+13f6  CMedia
+	9880  CMI9880
+14f1  Conexant
+17e8  Chrontel
+434d  CMedia
+	4980  CMI9880
+8086  Intel
+8384  Sigmatel
